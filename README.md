@@ -15,7 +15,7 @@
 
 ## Projects
 - Project 1: Migration from IIB to ACE
-- Project 2: Googpe APplication Integration.
+- Project 2: Google Application Integration.
 - Project 2: OpsGenie Migration
 
 ## Contact
